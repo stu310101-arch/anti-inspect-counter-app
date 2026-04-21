@@ -1,0 +1,6 @@
+{
+  "name": "anti-inspect-counter-app",
+  "description": "一個具有防護機制的計數器網頁，透過 JavaScript 阻擋右鍵選單與常見的開發者工具(F12)快捷鍵。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
